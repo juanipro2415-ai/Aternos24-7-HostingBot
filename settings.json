@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": serverdecoso.aternos.me",
+    "ip": "serverdecoso.aternos.me",
     "port": 50926,
     "version": "1.21.1"
   },
